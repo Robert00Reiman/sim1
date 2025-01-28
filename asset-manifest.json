@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sim1/static/css/main.f5582f8f.css",
+    "main.js": "/Sim1/static/js/main.381adcd5.js",
+    "static/media/background.jpeg": "/Sim1/static/media/background.3cb9b93a28f02be75465.jpeg",
+    "index.html": "/Sim1/index.html",
+    "main.f5582f8f.css.map": "/Sim1/static/css/main.f5582f8f.css.map",
+    "main.381adcd5.js.map": "/Sim1/static/js/main.381adcd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5582f8f.css",
+    "static/js/main.381adcd5.js"
+  ]
+}
